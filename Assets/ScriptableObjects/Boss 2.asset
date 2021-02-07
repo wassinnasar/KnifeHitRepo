@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13ca6981ee16e034cb97598acf716bef, type: 3}
+  m_Name: Boss 2
+  m_EditorClassIdentifier: 
+  masterPiece: {fileID: 21300000, guid: 2cad9718b7543114a8d371f9d1a2a221, type: 3}
+  knivesNeeded: 10
+  appleChance: 25
+  appleBool: 1
+  onePieceOfLog: {fileID: 21300000, guid: 210ab6d613b16b74daffe47dfa597f1c, type: 3}
+  otherPieceOfLog: {fileID: 21300000, guid: 1d957adcfa69e204a86ed6b91b3c1f68, type: 3}
+  thirdPieceOfLog: {fileID: 21300000, guid: 210ab6d613b16b74daffe47dfa597f1c, type: 3}
+  fourthPieceOfLog: {fileID: 21300000, guid: 1d957adcfa69e204a86ed6b91b3c1f68, type: 3}
+  minLogPouseTime: 1
+  maxLogPouseTime: 3
+  minLogRotationTime: 1
+  maxLogRotationTime: 5
+  minLogRotationSpeed: 2
+  maxLogRotationSpeed: 8
+  minLogPouseSpeed: 1
+  dirChangeBool: 1
+  intForDirChange: 0
